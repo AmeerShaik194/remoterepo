@@ -1,0 +1,33 @@
+﻿Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Acquired using: ADI4.7.3.81
+Case Number: ST-FS#001
+Evidence Number: 002
+Unique description: ZIP FILE
+Examiner: ANONYMOUS
+Notes: JOHN
+
+--------------------------------------------------------------
+
+Information for C:\Users\SIDDHU\OneDrive\Desktop\FS\USB_DRIVE:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 2,095,104
+[Physical Drive Information]
+ Removable drive: True
+ Source data size: 1023 MB
+ Sector count:    2095104
+[Computed Hashes]
+ MD5 checksum:    1694fb2cc43dabe74be02b9be3cb7481
+ SHA1 checksum:   8758f0acfffb5e9e86982e1aa1bea70432340038
+
+Image Information:
+ Acquisition started:   Fri Nov 15 19:18:36 2024
+ Acquisition finished:  Fri Nov 15 19:19:03 2024
+ Segment list:
+  C:\Users\SIDDHU\Downloads\New folder\LEVEL-2\USB_DRIVE-adencrypt.001
